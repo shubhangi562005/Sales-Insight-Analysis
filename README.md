@@ -142,11 +142,13 @@ AtliQ-Sales-Insights/
 
 ### 2. Sales Profit Dashboard
 
-![Key Insight Dashboard](./Key%20Insight.png)
+![Sales by Market Dashboard](./Sales_by_market.png)
+
 
 ### 3. Performance Analysis Dashboard
 
-![Sales by Market Dashboard](./Sales_by_market.png)
+![Key Insight Dashboard](./Key%20Insight.png)
+
 
 ## Final Conclusion
 
