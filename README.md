@@ -140,14 +140,14 @@ AtliQ-Sales-Insights/
 
 ![Sales Insight Dashboard](./Insight_Dashboard.png)
 
-### 2. Key Insight Dashboard
+### 2. Sales Profit Dashboard
 
 ![Key Insight Dashboard](./Key%20Insight.png)
 
-### 3. Sales by Market Dashboard
+### 3. Performance Analysis Dashboard
 
 ![Sales by Market Dashboard](./Sales_by_market.png)
 
-## Conclusion
+## Final Conclusion
 
 The AtliQ Sales Insights project uses Power BI to convert sales transaction data into interactive dashboards. It provides an overview of revenue, sales quantity, market performance, customer and product contributions, and profit margins. The three dashboard pages make it easier to explore sales trends, compare business performance, and identify areas that may need improvement. Overall, this project demonstrates the use of data cleaning, data modeling, DAX, and data visualization for business analysis.
