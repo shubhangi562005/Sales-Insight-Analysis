@@ -117,8 +117,6 @@ The dashboards help users:
 
 ## Project Structure
 
-Keep the following files together in the GitHub repository. The screenshot filenames below should match the names used in the README.
-
 ```text
 AtliQ-Sales-Insights/
 │
